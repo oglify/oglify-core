@@ -1,6 +1,6 @@
 {
   "name": "@oglify/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The core rules interpreter for OGLify",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
     "index.js"
   ],
   "dependencies": {
-    "@oglify/open-game-license": "^0.0.2"
+    "@oglify/open-game-license": "file://./../open-game-license"
   }
 }
