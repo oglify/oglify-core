@@ -23,6 +23,7 @@
   "homepage": "https://github.com/oglify/oglify-core/wiki",
   "files": [
     "LICENSE.txt",
+    "README.md",
     "index.js"
   ]
 }
