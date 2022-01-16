@@ -1,0 +1,28 @@
+{
+  "name": "@oglify/core",
+  "version": "0.0.1",
+  "description": "The core rules interpreter for OGLify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oglify/oglify-core.git"
+  },
+  "keywords": [
+    "ogl",
+    "oglify",
+    "pfrpg"
+  ],
+  "author": "brendansafr",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/oglify/oglify-core/issues"
+  },
+  "homepage": "https://github.com/oglify/oglify-core/wiki",
+  "files": [
+    "LICENSE.txt",
+    "index.js"
+  ]
+}
